@@ -1,0 +1,12 @@
+D:\Tulpar\Software\Micro Services Core\coremicroservices\TulparCore\Tulpar.Core\bin\Release\net5.0\Tulpar.Core.deps.json
+D:\Tulpar\Software\Micro Services Core\coremicroservices\TulparCore\Tulpar.Core\bin\Release\net5.0\Tulpar.Core.dll
+D:\Tulpar\Software\Micro Services Core\coremicroservices\TulparCore\Tulpar.Core\bin\Release\net5.0\ref\Tulpar.Core.dll
+D:\Tulpar\Software\Micro Services Core\coremicroservices\TulparCore\Tulpar.Core\bin\Release\net5.0\Tulpar.Core.pdb
+D:\Tulpar\Software\Micro Services Core\coremicroservices\TulparCore\Tulpar.Core\obj\Release\net5.0\Tulpar.Core.csprojAssemblyReference.cache
+D:\Tulpar\Software\Micro Services Core\coremicroservices\TulparCore\Tulpar.Core\obj\Release\net5.0\Tulpar.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tulpar\Software\Micro Services Core\coremicroservices\TulparCore\Tulpar.Core\obj\Release\net5.0\Tulpar.Core.AssemblyInfoInputs.cache
+D:\Tulpar\Software\Micro Services Core\coremicroservices\TulparCore\Tulpar.Core\obj\Release\net5.0\Tulpar.Core.AssemblyInfo.cs
+D:\Tulpar\Software\Micro Services Core\coremicroservices\TulparCore\Tulpar.Core\obj\Release\net5.0\Tulpar.Core.csproj.CoreCompileInputs.cache
+D:\Tulpar\Software\Micro Services Core\coremicroservices\TulparCore\Tulpar.Core\obj\Release\net5.0\Tulpar.Core.dll
+D:\Tulpar\Software\Micro Services Core\coremicroservices\TulparCore\Tulpar.Core\obj\Release\net5.0\ref\Tulpar.Core.dll
+D:\Tulpar\Software\Micro Services Core\coremicroservices\TulparCore\Tulpar.Core\obj\Release\net5.0\Tulpar.Core.pdb
