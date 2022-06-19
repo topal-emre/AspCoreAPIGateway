@@ -1,5 +1,6 @@
 # AspCore API Gateway 
 <img src="https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/building-api-gateway-using-ocelot-in-asp-net-core/Images/image001.jpg" />
+<h6>JWT structure between microservices</h6>
 It is a simple API Gateway for microservices architectures.
 Ocelot pack is used.  
 
